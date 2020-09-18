@@ -1,2 +1,2 @@
 # master_kschool
-Máster Data Science KSchool
+Éste es mi repo para Máster Data Science KSchool
